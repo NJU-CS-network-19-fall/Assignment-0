@@ -13,11 +13,10 @@ After you set up your Ubuntu or Linux system,
 $ sudo apt-get install cmake g++ git python3-dev qt5-qmake qt5-default python python3
 `
 
-(Optional)
 I personally recommend [anaconda](https://www.anaconda.com/distribution/#download-section) as the python develop toolkit with [Jupyter Notebook](https://jupyter.org/install).
-In the future work we will provide a `.ipynb` file helping you run a real-time Application layer script. So please install anaconda and Jupyter-Notebook in your Ubuntu system.
+In the future work we will provide a `.ipynb` file helping you run a real-time feedback script. So please install anaconda and Jupyter-Notebook in your Ubuntu system.
 ````
-(Optional) the following steps may not work on some computers
+(Warning) the following steps may not work on some computers
 TRY to solve them and feel free to contact TAs(TAs: No we are not free, DO it YOURSELF).
 
 $ cd ~/Desktop
