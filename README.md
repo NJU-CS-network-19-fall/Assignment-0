@@ -80,8 +80,17 @@ $ git commit -m "some words/marks"
 $ git push origin master
 # maybe need your GitHub account and passwords
 ````
+### Part 2 Who are you
+注意 请将同目录下的文件改名为 你的姓名-你的学号 （注意中间有个-） 、
+完成后 在assignment 0这个文件夹下：
+````
+$ git add -A
+$ git commit -m "你的名字"
+$ git push origin master
+````
 
-### Part 2 Mininet
+
+### Part 3 Mininet
 
 In the first experiment we will use a simulation tool named [Mininet](http://mininet.org/).
 Try to [install](http://mininet.org/download/) it on your Ubuntu system.
