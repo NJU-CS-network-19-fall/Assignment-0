@@ -108,6 +108,17 @@ Try to [install](http://mininet.org/download/) it on your Ubuntu system.
 
 We recommend you install Mininet via Option 2 or 3, but Option 1 always works.
 
+In Option 2, you can also run these commands to get latest mininet:
+````
+$ git clone git://github.com/mininet/mininet
+$ cd mininet
+$ git fetch
+$ git checkout master
+$ git pull
+$ sudo make install
+$ sudo util/install.sh -a
+````
+
 If you choose Option 1, after you open the VM(username and password are both 'mininet'), you can also install a working GUI consider now is already in 9012：
 
 ````
